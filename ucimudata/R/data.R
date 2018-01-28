@@ -19,8 +19,7 @@
 #' @seealso \code{\link[imudata]{mtig}}
 #' @examples
 #' \dontrun{
-#' data(imu6)
-#' summary(imu6)
+#' data(KVH1750imuAcc)
+#' summary(KVH1750imuAcc)
 #' }
-#'
-KVH1750imuAcc = load("data_raw/KVH1750imuAcc.rda")
+"KVH1750imuAcc"
